@@ -51,3 +51,8 @@ Insights
 Atomberg has highly positive sentiment among its viewers but low overall presence.
 
 Competitors dominate conversation volume, indicating an opportunity to grow Atomberg’s visibility and engagement.
+
+<img width="999" height="635" alt="image" src="https://github.com/user-attachments/assets/e212cf0a-de1a-4529-9e31-aff06e7cea98" />
+<img width="792" height="609" alt="image" src="https://github.com/user-attachments/assets/f5c20792-1e7b-4cd8-a313-3d9df1cad47a" />
+<img width="801" height="597" alt="image" src="https://github.com/user-attachments/assets/0cf26eee-0773-4b21-8bfb-d06c1d331ee9" />
+
