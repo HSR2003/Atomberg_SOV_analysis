@@ -6,8 +6,8 @@ import pandas as pd
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 
-API_KEY = "AIzaSyAhHlf9ecF1KSvcntdcoI0kdUtJBTYXGtI"  
-CX_ID = "33fc137a82e3d4f18"  
+API_KEY = "##"  
+CX_ID = "##"  
 
 
 KEYWORDS = [

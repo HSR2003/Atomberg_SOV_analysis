@@ -3,7 +3,7 @@ import re
 import math
 from googleapiclient.discovery import build
 
-API_KEY = "AIzaSyAhHlf9ecF1KSvcntdcoI0kdUtJBTYXGtI"
+API_KEY = "##"
 INPUT_CSV = "youtube_video_links.csv"
 OUTPUT_CSV = "youtube_comments_labeled.csv"
 
